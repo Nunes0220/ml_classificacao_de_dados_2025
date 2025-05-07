@@ -1,6 +1,8 @@
 # ml_classificacao_de_dados_2025
 
-![Bank Client Prediction](https://th.bing.com/th/id/OIP.Pixq9eppCBGpifpmTPXgFwAAAA?cb=iwc1&rs=1&pid=ImgDetMain)
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.Pixq9eppCBGpifpmTPXgFwAAAA?cb=iwc1&rs=1&pid=ImgDetMain" alt="Bank Client Prediction" />
+</p>
 
 ## Table of Contents
 - [About](#-about)
