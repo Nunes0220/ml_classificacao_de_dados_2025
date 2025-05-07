@@ -1,8 +1,6 @@
 # ml_classificacao_de_dados_2025
 
-⭐ Star us on GitHub — it motivates us a lot!
-
-🔥 Why OIDC Server is the best choice for authentication — find out in our [presentation]([https://resources.abblix.com/pdf/abblix-oidc-server-presentation-eng.pdf](https://th.bing.com/th/id/OIP.Pixq9eppCBGpifpmTPXgFwAAAA?cb=iwc1&rs=1&pid=ImgDetMain)) 📑
+![Bank Client Prediction](https://th.bing.com/th/id/OIP.Pixq9eppCBGpifpmTPXgFwAAAA?cb=iwc1&rs=1&pid=ImgDetMain)
 
 ## Table of Contents
 - [About](#-about)
@@ -17,10 +15,7 @@ Lucas Nunes Assumpção
 
 ## 🗨️ Contacts
 
-- **Email**: Send us your inquiries or support requests at [support@abblix.com](mailto:support@abblix.com).
-- **Website**: Visit the official Abblix OIDC Server page for more information: [Abblix OIDC Server](https://www.abblix.com/abblix-oidc-server).
-
-
+- **Email**: lucasnunes.ass1@gmail.com.
 
 [Back to top](#top)
 
