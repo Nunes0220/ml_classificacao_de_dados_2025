@@ -1,4 +1,5 @@
-# ml_classificacao_de_dados_2025
+## Marketing Classification Models 
+
 
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.Pixq9eppCBGpifpmTPXgFwAAAA?cb=iwc1&rs=1&pid=ImgDetMain" alt="Bank Client Prediction" />
@@ -17,7 +18,7 @@ Lucas Nunes Assumpção
 
 ## 🗨️ Contacts
 
-- **Email**: lucasnunes.ass1@gmail.com.
+- **Email**: lucasnunes.ass1@gmail.com
 
 [Back to top](#top)
 
