@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 style="font-size: 30px;">Marketing Classification Models</h2>
+  <h2 style="font-size: 30px, align="center";">Marketing Classification Models</h2>
 </p>
 
 
